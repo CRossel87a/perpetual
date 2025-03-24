@@ -3,7 +3,6 @@ Cargo.lock
 perpetual/__pycache__
 .vscode/
 .venv
-resources/*
 !resources/perp_logo.png
 python-package/Cargo.lock
 python-package/LICENSE
